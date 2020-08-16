@@ -1,0 +1,13 @@
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\bin\Debug\netcoreapp3.1\vircoin-new.exe
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\bin\Debug\netcoreapp3.1\vircoin-new.deps.json
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\bin\Debug\netcoreapp3.1\vircoin-new.runtimeconfig.json
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\bin\Debug\netcoreapp3.1\vircoin-new.runtimeconfig.dev.json
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\bin\Debug\netcoreapp3.1\vircoin-new.dll
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\bin\Debug\netcoreapp3.1\vircoin-new.pdb
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\obj\Debug\netcoreapp3.1\vircoin-new.csprojAssemblyReference.cache
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\obj\Debug\netcoreapp3.1\vircoin-new.AssemblyInfoInputs.cache
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\obj\Debug\netcoreapp3.1\vircoin-new.AssemblyInfo.cs
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\obj\Debug\netcoreapp3.1\vircoin-new.csproj.CoreCompileInputs.cache
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\obj\Debug\netcoreapp3.1\vircoin-new.dll
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\obj\Debug\netcoreapp3.1\vircoin-new.pdb
+C:\Users\Oliwier\Documents\GitHub\vircoin-new\obj\Debug\netcoreapp3.1\vircoin-new.genruntimeconfig.cache
