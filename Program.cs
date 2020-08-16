@@ -70,9 +70,10 @@ namespace vircoin_new
         }
         static void Main(string[] args)
         {
+            Console.Title = "VIRCOIN Node";
             Thread thr1 = new Thread(licznik);
             Thread thr2 = new Thread(menu);
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("VIRCOIN");
             // case number one (difficulty = 2)
             int difficulty = 5;
             int finishTime = CurrentTime + 15;
